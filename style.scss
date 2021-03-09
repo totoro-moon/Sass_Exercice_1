@@ -1,0 +1,15 @@
+$couleur_rose_h1: #ff00e1;
+$couleur_titre: #ff0000;
+$couleur_paragraphe: #0083ff;
+
+body{
+  h1{
+  color:$couleur_rose_h1
+  }
+  .titre{
+    color: $couleur_titre;
+  }
+  .corps{
+    color: $couleur_paragraphe;
+  }
+}
